@@ -1,5 +1,5 @@
-# GTA5-lua
-The use of Mods/Scripts is against the TOS of Rockstar games
+#GTA5-lua
+Rep. of all my GTA5 luas for different menus
 
 Use at your own risk!
 
